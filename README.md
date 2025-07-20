@@ -54,3 +54,7 @@ study_time = f(past_score, difficulty, trend, total_time)
 
 *Note: Model training code and `.pkl` file are withheld for IP protection.*
 
+🔐 License & Usage
+This project is NOT open-source for reuse.
+The code is shared for portfolio and educational showcase only.
+
