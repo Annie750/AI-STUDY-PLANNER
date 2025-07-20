@@ -23,7 +23,10 @@ Built with 💡 Streamlit + 🧠 Machine Learning (Linear Regression)
 ---
 
 ## 🖼️ Preview
-![Screenshot](https://i.imgur.com/your-placeholder.png)  
+<img width="677" height="455" alt="image" src="https://github.com/user-attachments/assets/06391332-b1ee-470e-84fb-7dc44c1be377" />
+<img width="557" height="692" alt="image" src="https://github.com/user-attachments/assets/26b3cdc9-0134-43ee-b58d-32e622fae1e7" />
+<img width="535" height="726" alt="image" src="https://github.com/user-attachments/assets/eda89f46-1131-490a-a0f5-e53b6a0b793b" />
+<img width="532" height="312" alt="image" src="https://github.com/user-attachments/assets/b94fd0e0-37f1-4465-8b23-e96db0063251" />
 *Mockup: AI-generated study plan for a 5-subject exam week.*
 
 ---
