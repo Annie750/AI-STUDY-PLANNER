@@ -68,8 +68,6 @@ study_time = f(past_score, difficulty, trend, total_time)
 This project is **NOT open-source for reuse.**  
 The code is shared for **portfolio and educational showcase only.**
 
-📩 For demo access or collaboration: [your email or LinkedIn]
-
 ---
 
 ## ✨ Credits
