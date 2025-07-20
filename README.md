@@ -58,3 +58,8 @@ study_time = f(past_score, difficulty, trend, total_time)
 This project is NOT open-source for reuse.
 The code is shared for portfolio and educational showcase only.
 
+✨ Credits
+Made with ❤️ by Ananya
+3rd Year B.Tech CSE (AI & ML)
+Currently interning at NIC | AI Project Developer | Curious Creator
+
