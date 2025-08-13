@@ -58,9 +58,6 @@ The model uses:
 **Example formula used during training** *(simplified)*:
 study_time = f(past_score, difficulty, trend, total_time)
 
-
-> ⚠️ *Note: Model training code and `.pkl` file are withheld for IP protection.*
-
 ---
 
 ## ✨ Credits
